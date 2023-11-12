@@ -2,6 +2,7 @@
 Portfolio of my university career.
 
 ## Sobre mi
-Mi nombre es Juan Pablo González Jiménez y soy estudiante de la carrera de ingeniería en computacion en la UDG.
 
-Actualmente estoy aprendiendo Python y C++
+My name is Juan Pablo González Jiménez and I am a first-semester student studying computer engineering at the UDG.
+
+I am currently learning Python and C++
