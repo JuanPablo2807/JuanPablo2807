@@ -14,3 +14,4 @@ developer!!!
 ___
 I'm learning Python on this page: [JetBrain] (https://www.jetbrains.com/es-es/academy/)
 ___
+![c99e353f761d318322c853c03ebcf21b](https://github.com/JuanPablo2807/portfolio/assets/150610904/9d2f4918-927e-49b6-99b4-f8a898fa9f07)
